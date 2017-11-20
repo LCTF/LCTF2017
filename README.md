@@ -45,8 +45,8 @@ Source code, writeups and exps in LCTF2017.
 
 | 题目        | URL  |
 | --------- | ---- |
-| Py.trade  |      |
-| Py.trade2 |      |
+| Py.trade  |https://github.com/LCTF/LCTF2017/tree/master/src/crypto/py.trade1|
+| Py.trade2 |https://github.com/LCTF/LCTF2017/tree/master/src/crypto/py.trade2|
 
 
 
