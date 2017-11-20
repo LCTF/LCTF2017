@@ -19,15 +19,15 @@ Source code, writeups and exps in LCTF2017.
 
 | 题目            | URL                                      |
 | ------------- | ---------------------------------------- |
-| 2ez4u         |                                          |
-| Shopping?     |                                          |
-| toy           |                                          |
+| 2ez4u         | https://github.com/LCTF/LCTF2017/tree/master/src/pwn/2ez4u |
+| Shopping?     |https://github.com/LCTF/LCTF2017/tree/master/src/pwn/shopping |
+| toy           | https://github.com/LCTF/LCTF2017/tree/master/src/pwn/toy |
 | 完美冻结          | [https://github.com/LCTF/LCTF2017/tree/master/src/pwn/完美冻结](https://github.com/LCTF/LCTF2017/tree/master/src/pwn/完美冻结) |
 | BeRealDriver  |                                          |
 | NuclearBomb   |                                          |
 | YublKey       |                                          |
-| 滑稽博士          | [https://github.com/LCTF/LCTF2017/tree/master/src/re/滑稽博士/](https://github.com/LCTF/LCTF2017/tree/master/src/re/滑稽博士) |
-| use your IDA? |                                          |
+| 滑稽博士| [https://github.com/LCTF/LCTF2017/tree/master/src/re/滑稽博士/](https://github.com/LCTF/LCTF2017/tree/master/src/re/滑稽博士) |
+| use your IDA? |https://github.com/LCTF/LCTF2017/tree/master/src/re/use%20your%20IDA|
 
 
 
