@@ -33,11 +33,13 @@ Source code, writeups and exps in LCTF2017.
 
 ## MISC
 
-| 题目       | URL  |
-| -------- | ---- |
-| 拿去当壁纸吧朋友 |      |
-| 树莓派      |      |
-| 问卷调查     |      |
+| 题目       | URL                                      |
+| -------- | ---------------------------------------- |
+| 拿去当壁纸吧朋友 | [https://github.com/LCTF/LCTF2017/tree/master/src/misc/拿去当壁纸吧朋友](https://github.com/LCTF/LCTF2017/tree/master/src/misc/拿去当壁纸吧朋友) |
+| 树莓派      | [https://github.com/ohmyadd/2017-lctf-misc-raspberry](https://github.com/ohmyadd/2017-lctf-misc-raspberry) |
+| 问卷调查     | Google问卷调查                               |
+
+
 
 ## Crypto
 
@@ -45,6 +47,8 @@ Source code, writeups and exps in LCTF2017.
 | --------- | ---- |
 | Py.trade  |      |
 | Py.trade2 |      |
+
+
 
 ## Android
 
