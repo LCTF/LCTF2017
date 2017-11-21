@@ -39,7 +39,7 @@ Source code, writeups and exps in LCTF2017.
 | 题目       | URL                                      |
 | -------- | ---------------------------------------- |
 | 拿去当壁纸吧朋友 | [https://github.com/LCTF/LCTF2017/tree/master/src/misc/拿去当壁纸吧朋友](https://github.com/LCTF/LCTF2017/tree/master/src/misc/拿去当壁纸吧朋友) |
-| 树莓派      | [https://github.com/LCTF/LCTF2017/tree/master/src/misc/2017-lctf-misc-raspberry](https://github.com/LCTF/LCTF2017/tree/master/src/misc/2017-lctf-misc-raspberry) |
+| 树莓派      | [https://github.com/LCTF/LCTF2017/tree/master/src/misc/raspberry](https://github.com/LCTF/LCTF2017/tree/master/src/misc/raspberry) |
 | 问卷调查     | Google问卷调查                               |
 
 
