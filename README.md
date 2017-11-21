@@ -14,7 +14,6 @@ Source code, writeups and exps in LCTF2017.
 | L PLAYGROUND    | [https://github.com/LCTF/LCTF2017/tree/master/src/web/l-plarground](https://github.com/LCTF/LCTF2017/tree/master/src/web/l-plarground) |
 | wanna hack him? | [https://github.com/LCTF/LCTF2017/tree/master/src/web/wanna-hack-him](https://github.com/LCTF/LCTF2017/tree/master/src/web/wanna-hack-him) |
 | 签到题             | [https://github.com/LCTF/LCTF2017/tree/master/src/web/签到题](https://github.com/LCTF/LCTF2017/tree/master/src/web/签到题) |
-| 他们有什么秘密呢        | [https://github.com/LCTF/LCTF2017/tree/master/src/web/他们有什么秘密呢](https://github.com/LCTF/LCTF2017/tree/master/src/web/他们有什么秘密呢) |
 
 
 
